@@ -3,5 +3,19 @@
         "Gold97SGB" : {
             "guides" : ["SG97_Guide_1_14.pdf"]
         }
+    },
+    "pret" : {
+        "pokered" : {
+            "guides" : ["(Nintendo Power 1998) - Pokemon Red & Blue.pdf"]
+        },
+        "pokeyellow" : {
+            "guides" : ["(Nintendo Power 1998) - Pokemon Yellow - Special Pikachu Edition.pdf"]
+        },
+        "pokegold" : {
+            "guides" : ["(Nintendo Power 2000) - Pokemon Gold & Silver.pdf"]
+        },
+        "pokecrystal" : {
+            "guides" : ["(Nintendo Power 2001) - Pokemon Crystal.pdf"]
+        }
     }
 }
