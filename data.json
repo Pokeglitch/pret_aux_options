@@ -4,6 +4,11 @@
             "guides" : ["SG97_Guide_1_14.pdf"]
         }
     },
+    "Pokeglitch" : {
+        "poketre" : {
+            "patches" : ["Pokemon TRE.bps"]
+        }
+    },
     "pret" : {
         "pokered" : {
             "guides" : ["(Nintendo Power 1998) - Pokemon Red & Blue.pdf"]
